@@ -1,7 +1,6 @@
 ---
 title: "MNIST Project Report"
-author: "Eric Mestiza"
-date: "5/12/2019"
+author:
 ---
 
 Note: Report begins below the R code output.
